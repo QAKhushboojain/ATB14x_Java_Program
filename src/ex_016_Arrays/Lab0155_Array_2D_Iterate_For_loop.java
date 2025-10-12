@@ -7,7 +7,7 @@ public class Lab0155_Array_2D_Iterate_For_loop {
         {
             for(int j = 0; j <matrix[i].length; j++)
             {
-                System.out.print(matrix[i][j]);
+                System.out.print(matrix[i][j] + "  |  ");
             }
             System.out.println();
         }
