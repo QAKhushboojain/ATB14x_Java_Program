@@ -1,6 +1,6 @@
 package ex_017_OOPS;
 
-public class Lab0164_P2 {
+public class Lab0163_P2 {
     public static void main(String[] args) {
         ATBx  at = new ATBx();
         at.name = "Amit";
