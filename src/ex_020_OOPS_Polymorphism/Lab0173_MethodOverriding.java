@@ -24,5 +24,4 @@ class Khushboo extends Father{
     {
         System.out.println("3BHK");
     }
-
-        }
+}

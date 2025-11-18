@@ -9,5 +9,6 @@ public class Lab0167Single_Inheritance {
         Father f1 = new Father();
         System.out.println(f1.gold_f);
         f1.bhk2();
+        //f1.bhk3();
     }
 }

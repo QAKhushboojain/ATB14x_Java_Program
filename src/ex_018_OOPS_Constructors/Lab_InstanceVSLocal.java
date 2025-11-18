@@ -4,6 +4,6 @@ public class Lab_InstanceVSLocal {
     String name; // Instance variable or attribute or data members or properties
     void hello()
     {
-        String name = "Khushboo";
+        String name = "Khushboo"; // local variable
     }
 }

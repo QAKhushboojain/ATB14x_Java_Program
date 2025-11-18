@@ -5,6 +5,7 @@ public class Lab042_Interview {
         int a = 10;
         boolean b = (10 == 11);
         System.out.println(b);
+       // System.out.println(b instanceof boolean);
         // Instance of use only non primitive type
 
     }

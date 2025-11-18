@@ -4,7 +4,7 @@ public class Lab0107_while_interview {
     public static void main(String[] args) {
         while (true)
         {
-            System.out.println("Hello, Khushboo");
+            System.out.println("Hello, Khushboo"); // / infinite loop condition is true
         }
     }
 }

@@ -8,7 +8,11 @@ public class Lab033_Interview_Concat_Plus {
         int b = 10;
         System.out.println(first_name+last_name+a+b);
         System.out.println(a+b+first_name+last_name);
+        // BODMAS Rule Follow -
         System.out.println(first_name+last_name+(a+b));
+        // + -> Operator overloading
+        // + -> behave differently with the data type
+        // + - String - concatenation
 
     }
 }

@@ -11,9 +11,7 @@ public class Lab013_Numerics_Data_Types {
         float f = 3.14f;
         float f2 = 3.14F;
         double d = 3.12123423;
-
         byte age = 10;
-
         String s1 = "Khushboo";
         System.out.println(s1);
         // k,h,u,s,h,b,o,o, - char , primitive

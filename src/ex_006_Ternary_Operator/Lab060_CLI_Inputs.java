@@ -13,6 +13,5 @@ public class Lab060_CLI_Inputs {
         System.out.println(input3);
         System.out.println(input4);
         System.out.println(input5);
-
     }
 }

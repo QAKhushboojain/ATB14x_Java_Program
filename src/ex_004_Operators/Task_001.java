@@ -6,8 +6,8 @@ public class Task_001 {
         int num = 9;
         // 9*1 = 9
         // int -> %d, String -> s, Char -> %c, float - > %f
-        System.out.printf("%d x 1 = %d", num , num*1);
-        System.out.println();
+        System.out.printf("%d x 1 = %d", num , num*1).println();
+      //  System.out.println();
         System.out.printf("%d x 2 = %d", num , num*2);
         System.out.println();
         System.out.printf("%d x 3 = %d", num , num*3);
@@ -25,11 +25,6 @@ public class Task_001 {
         System.out.printf("%d x 9 = %d", num , num*9);
         System.out.println();
         System.out.printf("%d x 10 = %d", num , num*10);
-
-
-
-
-
     }
 
 }

@@ -4,21 +4,21 @@ public class Lab012_Variables {
     public static void main(String[] args) {
         int a = 10;
         a = 65+1;
-        System.out.println(a);
+        System.out.println(a); // 66
       //  byte age = 128;  out of range
         int age = 128;
         age = age + 1;
         age = 76;
-        System.out.println(age);
+        System.out.println(age); // 76
         int _ = 65;
         int $ = 65;
         int year = 2025;
         int  this_is_a_vari_long_name_in_the_class_hello_$_akakak = 89;
         int _2 = 123;
-        System.out.println(_2);
-        // int enum = 10;
+        System.out.println(_2); // 123
+        // int enum = 10; small enum is reversed keyword so not valid
         int Enum = 10;
-        System.out.println(Enum);
+        System.out.println(Enum); // 10
         // int promod dutt = 89; space is also not allowed
         int Lab012_Variables = 123;
         int promod$dutt = 90;

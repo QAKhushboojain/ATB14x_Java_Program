@@ -10,7 +10,8 @@ public class Lab027_Operators_Arithmetic_Operators {
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a/c);
-        System.out.println("a+b");
+       // System.out.println("a+b");
+        System.out.println("a + b = " + (a + b));
         System.out.println(a+b);
     }
 }

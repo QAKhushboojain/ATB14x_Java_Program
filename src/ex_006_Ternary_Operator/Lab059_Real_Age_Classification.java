@@ -16,7 +16,5 @@ public class Lab059_Real_Age_Classification {
         int age  = Integer.parseInt(user_input);
         String result = (age < 18) ? "Minor" : (age <= 60 )  ? "Adult" : "Sr.Citizen";
         System.out.println(result);
-
-
     }
 }
