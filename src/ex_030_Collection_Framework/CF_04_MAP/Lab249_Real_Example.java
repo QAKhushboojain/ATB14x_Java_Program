@@ -15,6 +15,10 @@ public class Lab249_Real_Example {
         credentials.put("user", "user123");
         credentials.put("user", "null");
         credentials.put("user1", "null");
+        Map <String, String> map = new HashMap(10);
+        // initial Capacity  - > 10
+        // 20 * Load * new value -> HashMap size will increase
+
 
     }
 }
